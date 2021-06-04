@@ -13,7 +13,7 @@ Prices are given in a pandas dataframe.
 
 How to install the library:
 
-- 
+- pip install git+https://github.com/nunodsousa/KrakenRequest.git
 
 """
     Kraken Request methods
