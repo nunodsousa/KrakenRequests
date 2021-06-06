@@ -1,6 +1,9 @@
 # Kraken Requests methods
+## Ver. 0.1
+## Nuno de Sousa
 
-Very simple library with the following four functions:
+
+Very simple library (don't judge by the simplicity, it does everything that you need) with the following four functions:
 
 - GetAssetPairInfo
 - GetPrices
@@ -12,7 +15,7 @@ Prices are given in a pandas dataframe.
 
 How to install the library:
 
-- pip install git+https://github.com/nunodsousa/KrakenRequest.git
+- pip install -e git+https://github.com/nunodsousa/KrakenRequests#egg=KrakenRequests
 
 ### Very Short but complete documentation 
 
@@ -72,3 +75,4 @@ How to install the library:
         System Status and timestamp:
         Example: {'status': 'online', 'timestamp': '2021-06-04T17:47:35Z'}
 
+Did you like it? This means that you don't understand anything about coding.
