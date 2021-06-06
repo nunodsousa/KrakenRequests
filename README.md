@@ -3,7 +3,7 @@
 ## Nuno de Sousa
 
 
-Very simple library (don't judge by the simplicity, it does everything that you need) with the following four functions:
+Very simple library (**don't judge by the simplicity, it does everything that you need**) with the following four functions:
 
 - GetAssetPairInfo
 - GetPrices
