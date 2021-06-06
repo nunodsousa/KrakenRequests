@@ -14,7 +14,8 @@ How to install the library:
 
 - pip install git+https://github.com/nunodsousa/KrakenRequest.git
 
-"""
+### Very Short but complete documentation 
+
     Kraken Request methods
     ---------------------
 
@@ -71,4 +72,3 @@ How to install the library:
         System Status and timestamp:
         Example: {'status': 'online', 'timestamp': '2021-06-04T17:47:35Z'}
 
-    """
