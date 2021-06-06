@@ -1,8 +1,7 @@
-
-
-# Kraken Resquest methods
+# Kraken Requests methods
 
 Very simple library with the following four functions:
+
 - GetAssetPairInfo
 - GetPrices
 - GetServerTime
